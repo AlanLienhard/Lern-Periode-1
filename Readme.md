@@ -18,7 +18,7 @@ Ein Programm schreiben, mit dem der Benutzer nach seinem Namen gefragt wird, und
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Ala`  | `Hallo Alan`      |
+| Programm in VS gestartet | `Alan`  | `Hallo Alan`      |
 
 - [ ]  Ein Taschenrechner-Programm schreiben 
 
