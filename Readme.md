@@ -24,6 +24,6 @@ Ein Programm schreiben, mit dem der Benutzer nach seinem Namen gefragt wird, und
 
 - [ ] Ein Programm, das den Benutzer nach dem Namen fragt und ihn rückwärts wiedergibt.
 
-- [ ] ...
+- [ ] Wenn die Zeit dann reicht, arbeite ich an den Modulen weiter (Moodle).
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
