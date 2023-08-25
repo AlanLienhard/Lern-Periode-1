@@ -14,15 +14,15 @@ Ein Programm schreiben, mit dem der Benutzer nach seinem Namen gefragt wird, und
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
+- [*] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Alan`  | `Hallo Alan`      |
 
-- [ ]  Ein Taschenrechner-Programm schreiben 
+- [ ]  Ein Taschenrechner-Programm schreiben . Konnte nur Operationen mittels WriteLine ausführen.
 
-- [ ] Ein Programm, das den Benutzer nach dem Namen fragt und ihn rückwärts wiedergibt.
+- [ ] Ein Programm, das den Benutzer nach dem Namen fragt und ihn rückwärts wiedergibt. ReverseArray konnte nicht als string returned werden.
 
 - [ ] Wenn die Zeit dann reicht, arbeite ich an den Modulen weiter (Moodle).
 
