@@ -27,3 +27,19 @@ Ein Programm schreiben, mit dem der Benutzer nach seinem Namen gefragt wird, und
 - [ ] Wenn die Zeit dann reicht, arbeite ich an den Modulen weiter (Moodle).
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
+
+
+## Arbeitspaket für 1.09.2023
+- [x]  Ein Taschenrechner-Programm schreiben mit einfachen Operationen.
+
+- [x] Ein Programm, das den Benutzer nach dem Namen fragt und ihn rückwärts wiedergibt. ReverseArray konnte nicht als string returned werden.
+
+- [ ] Wenn die Zeit dann reicht, arbeite ich an den Modulen weiter (Moodle).
+
+Heute habe ich als Erstes daran gearbeitet, den Benutzer nach seinem Vornamen und Nachnamen fragen und dann diesen rückwärts wiedergeben in der Konsole.
+Als nächstes machte ich einen einfachen Taschenrechner, der nur Additionen, Subtraktionen, Multiplikationen und Divisionen ausführen kann. Das war ziemlich einfach mit ´´ Console.WriteLine() ´´ und mit ´´Console.ReadLine()´´. Danach bekam ich die spontane Idee, dem Taschenrechner eine Funktion hinzuzufügen, das Quadrieren. Das war viel anspruchsvoller auf der Art, in der ich es lösen konnte (mit booleans, mit strings wäre es einfacher. Daran möchte ich auch nächstes Mal arbeiten.
+
+## Arbeitspaket für 15.09.2023
+- [ ] Taschenrechner erweitern, sodass er quadrieren kann.
+- [ ] Taschenrechner erweitern, sodass er Wurzel ziehen kann.
