@@ -41,5 +41,17 @@ Heute habe ich als Erstes daran gearbeitet, den Benutzer nach seinem Vornamen un
 Als nächstes machte ich einen einfachen Taschenrechner, der nur Additionen, Subtraktionen, Multiplikationen und Divisionen ausführen kann. Das war ziemlich einfach mit ´´ Console.WriteLine() ´´ und mit ´´Console.ReadLine()´´. Danach bekam ich die spontane Idee, dem Taschenrechner eine Funktion hinzuzufügen, das Quadrieren. Das war viel anspruchsvoller auf der Art, in der ich es lösen konnte (mit booleans, mit strings wäre es einfacher. Daran möchte ich auch nächstes Mal arbeiten.
 
 ## Arbeitspaket für 15.09.2023
-- [ ] Taschenrechner erweitern, sodass er quadrieren kann.
+- [x] Taschenrechner erweitern, sodass er quadrieren kann.
 - [ ] Taschenrechner erweitern, sodass er Wurzel ziehen kann.
+# Fazit vom Arbeitspaket und Pläne für nächste Woche
+   Ich habe den Taschenrechner dazu gebracht, Zahlen zu quadrieren, indem zuerst gefragt wird, ob man schon quadrieren möchte oder nicht. Wenn ja, wird nach nur einer Zahl gefragt. Diese wird in einer integer gespeichert und mit sich selber multipliziert und in der Konsole wiedergegeben.
+   Ich habe für nächste Woche vor, Quadratwurzeln zu ziehen, double/floats quadrieren und falls ich das alles schaffe möchte ich noch den Benutzer die Basis und den Exponenten für eine Potenz wählen lassen.
+   Falls ich jedoch ein zwischen-Projekt machen möchte (um Abwechslung für mich reinzubringen) habe ich mir überlegt, dass ich probiere ein Skript zu schreiben, mit dem ich Dateien mit einem bestimmten Namen und/oder Dateitypen automatisch in eine bestimmte Directory verschiebe.
+
+   ## Arbeitspaket für 22.09.2023
+   - [ ] Taschenrechner erweitern, sodass er Quadratwurzeln zieht
+   - [ ] Taschenrechner erweitern, sodass man die Basis einer Potenz bestimmen kann
+   - [ ] Taschenrechner erweitern, sodass er mit Dezimalzahlen richtig arbeiten kann.
+   - [ ] (optional) Skript schreiben, damit man bestimmte Dateien nach Namen oder Typ sortieren kann
+         
+   (169 Wörter hinzugefügt, ab "#Fazit vom Arbeitspaket und Pläne für nächste Woche")
