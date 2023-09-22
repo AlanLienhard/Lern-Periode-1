@@ -55,3 +55,8 @@ Als nächstes machte ich einen einfachen Taschenrechner, der nur Additionen, Sub
    - [ ] (optional) Skript schreiben, damit man bestimmte Dateien nach Namen oder Typ sortieren kann
          
    (169 Wörter hinzugefügt, ab "#Fazit vom Arbeitspaket und Pläne für nächste Woche")
+
+   ## Reflexion
+   Diese Lernperiode habe ich begonnen, indem ich einen simplen Taschenrechner, mit dem man addieren, subtrahieren, dividieren und multiplizieren konnte. Das habe ich als Konsolen-Applikation gemacht. Später habe ich dem Taschenrechen eine Funktion hinzugefügt, nämlich das Quadrieren (² rechnen von Zahlen). Heute (am letzten Tag der Lernperiode) wollte ich entweder Das Ziehen von Quadratwurzeln hinzufügen (woran ich nicht gearbeitet habe) oder ein neues Projekt anfangen, wo ich Dateien mit einem bestimmten Namen oder mit einem bestimmten Dateitypen in einen bestimmten Ordner verschiebe, um mehr Ordnung auf meinem PC zu haben und natürlich auch, um besser mit C# programmieren können. 
+Ich sollte für die nächsten Lernperioden versuchen, weniger abgelenkt zu arbeiten, damit ich besser/effektiver lernen kann. Ich habe hauptsächlich Stackoverflow, verschieden Seiten, die ich durch google Suchanfragen gefunden habe und YouTube zum Lernen benutzt.
+
